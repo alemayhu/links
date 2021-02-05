@@ -32,7 +32,7 @@ function App() {
       </div>
       <footer>
         <p class="footer-text">
-          The source code is available on  <a href="https://github.com/alemayhu/links">GitHub</a>                              
+          ©  <a href="https://alemayhu.com">Alexander Alemayhu</a>                              
         </p>
       </footer>
     </div>
