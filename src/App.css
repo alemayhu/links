@@ -57,3 +57,7 @@
   color: white;
   font-weight: bold;
 }
+
+.footer-link {
+  text-decoration: none;
+}

@@ -32,7 +32,7 @@ function App() {
       </div>
       <footer>
         <p class="footer-text">
-          ©  <a href="https://alemayhu.com">Alexander Alemayhu</a>                              
+          ©  <a className="footer-link" href="https://alemayhu.com">Alexander Alemayhu</a>                              
         </p>
       </footer>
     </div>
