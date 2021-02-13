@@ -9,6 +9,7 @@ const links = [
   { title: "GitHub Sponsor", link: "http://github.com/sponsors/alemayhu" },
   { title: "Patreon", link: "https://www.patreon.com/alemayhu" },
   { title: "Website", link: "https://alemayhu.com" },
+  { title: "Amazon Wishlist", link: "https://www.amazon.com/hz/wishlist/ls/2R5BVQ3IWEDAC?ref_=wl_share" },
   { title: "Twitter", link: "https://twitter.com/AAlemayhu" },
   { title: "Buy me a coffee", link: "https://buymeacoffee.com/aalemayhu" },
   { title: "Tip", link: "https://streamlabs.com/alexanderalemayhu1" },
