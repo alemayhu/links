@@ -3,6 +3,8 @@ import './App.css';
 
 const links = [
   { title: "YouTube", link: "https://youtube.com/c/alexanderalemayhu" },
+  { title: "Twitch", link: "http://twitch.tv/alexanderalemayhu" },
+  { title: 'Trovo', link: 'https://trovo.live/alexanderalemayhu'},
   { title: "Telegram", link: "https://t.me/joinchat/TkdYqYimUj-lp7JD" },
   { title: "Tiktok", link: "https://www.tiktok.com/@alexanderalemayhu" },
   { title: "Discord", link: "https://discord.gg/PSKC3uS" },
@@ -15,8 +17,8 @@ const links = [
   { title: "Tip", link: "https://streamlabs.com/alexanderalemayhu1" },
   { title: "Ko-Fi", link: "https://ko-fi.com/alemayhu" },
   { title: "Paypal", link: "https://paypal.me/alemayhu" },
-  { title: "Twitch", link: "http://twitch.tv/alexanderalemayhu" },
-  { title: "AlemayhuVODS", link: "https://www.youtube.com/c/AlemayhuVODS" }
+  { title: "AlemayhuVODS", link: "https://www.youtube.com/c/AlemayhuVODS" },
+  {title: "Notion to Anki", link: 'https://2anki.net/'}
 ];
 
 function App() {
