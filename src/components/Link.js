@@ -12,7 +12,7 @@ const LinkTitle = styled.div`
   width: 280px;
   text-align: center;
   margin: 1rem;
-  border-radius: 6px;
+  border-radius: 36px;
 
   pointer-events: auto;
   background: white;
