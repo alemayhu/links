@@ -5,6 +5,7 @@ const links = [
   { title: "YouTube", link: "https://youtube.com/c/alexanderalemayhu" },
   { title: "Twitch", link: "http://twitch.tv/alexanderalemayhu" },
   { title: 'Trovo', link: 'https://trovo.live/alexanderalemayhu'},
+  { title: 'DLive', link: 'http://dlive.tv/alexanderalemayhu'},
   { title: "Telegram", link: "https://t.me/joinchat/TkdYqYimUj-lp7JD" },
   { title: "Tiktok", link: "https://www.tiktok.com/@alexanderalemayhu" },
   { title: "Discord", link: "https://discord.gg/PSKC3uS" },
