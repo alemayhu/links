@@ -16,6 +16,7 @@ const Page = styled.div`
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  height: 100vh;
 `
 function App() {
   return (
