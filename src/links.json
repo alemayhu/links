@@ -27,6 +27,10 @@
         ],
         "💬 Chat / DMs": [
                 {
+                        "title": "Email",
+                        "link": "mailto:alexander@alemayhu.com?subject=You don't know me"
+                },
+                {
                         "title": "Telegram",
                         "link": "https://t.me/joinchat/TkdYqYimUj-lp7JD"
                 },
