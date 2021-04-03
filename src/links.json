@@ -1,8 +1,26 @@
 {
-  "🔴 Video / Streams": [
+  " 🤳🏾Watch My Content": [
     {
       "title": "YouTube",
       "link": "https://youtube.com/c/alexanderalemayhu"
+    },
+    {
+      "title": "AlemayhuVODS",
+      "link": "https://www.youtube.com/c/AlemayhuVODS"
+    },
+    {
+      "title": "Odysee",
+      "link": "https://odysee.com/@alexanderalemayhu:0"
+    },
+    {
+      "title": "Tiktok",
+      "link": "https://www.tiktok.com/@alexanderalemayhu"
+    }
+  ],
+  "🔴 Watch Me LIVE": [
+    {
+      "title": "YouTube Live",
+      "link": "http://www.youtube.com/c/alexanderalemayhu/live"
     },
     {
       "title": "Twitch",
@@ -19,32 +37,20 @@
     {
       "title": "Periscope",
       "link": "https://www.periscope.tv/AAlemayhu"
-    },
-    {
-      "title": "AlemayhuVODS",
-      "link": "https://www.youtube.com/c/AlemayhuVODS"
-    },
-    {
-      "title": "Odysee",
-      "link": "https://odysee.com/@alexanderalemayhu:0"
     }
   ],
-  "💬 Chat / DMs": [
+  "💬 Contact Me": [
     {
       "title": "Email",
       "link": "mailto:alexander@alemayhu.com?subject=You don't know me"
     },
     {
-      "title": "Telegram",
-      "link": "https://t.me/joinchat/TkdYqYimUj-lp7JD"
-    },
-    {
-      "title": "Tiktok",
-      "link": "https://www.tiktok.com/@alexanderalemayhu"
-    },
-    {
       "title": "Discord",
       "link": "https://discord.gg/PSKC3uS"
+    },
+    {
+      "title": "Telegram",
+      "link": "https://t.me/joinchat/TkdYqYimUj-lp7JD"
     },
     {
       "title": "Twitter",
@@ -55,14 +61,22 @@
       "link": "https://www.instagram.com/alexgodmat/"
     }
   ],
-  "💙 Support": [
-    {
-      "title": "GitHub Sponsor",
-      "link": "http://github.com/sponsors/alemayhu"
-    },
+  "💙 Support Me": [
     {
       "title": "Patreon",
       "link": "https://www.patreon.com/alemayhu"
+    },
+    {
+      "title": "Ko-Fi",
+      "link": "https://ko-fi.com/alemayhu"
+    },
+    {
+      "title": "Paypal",
+      "link": "https://paypal.me/alemayhu"
+    },
+    {
+      "title": "GitHub Sponsor",
+      "link": "http://github.com/sponsors/alemayhu"
     },
     {
       "title": "SubscribeStar",
@@ -75,37 +89,31 @@
     {
       "title": "Stream Messages",
       "link": "https://streamlabs.com/alexanderalemayhu1"
-    },
-    {
-      "title": "Ko-Fi",
-      "link": "https://ko-fi.com/alemayhu"
-    },
-    {
-      "title": "Paypal",
-      "link": "https://paypal.me/alemayhu"
     }
   ],
-  "🍔 Misc": [
-    {
-      "title": "Amazon Wishlist",
-      "link": "https://www.amazon.com/hz/wishlist/ls/2R5BVQ3IWEDAC?ref_=wl_share"
-    },
+  "🌮 My Projects": [
     {
       "title": "Notion to Anki",
       "link": "https://2anki.net/"
     },
     {
-      "title": "GitHub",
+      "title": "GitHub Profile",
       "link": "https://github.com/aalemayhu"
     },
     {
-      "title": "Website",
+      "title": "Personal Website",
       "link": "https://alemayhu.com"
     }
   ],
-  "🙋🏾‍♂️ Referral": [
+  "🙋🏾‍♂️ My Referrals": [
     { "title": "DigitalOcean", "link": "https://m.do.co/c/c5a16996cd0e" },
     { "title": "Skillshare", "link": "https://skl.sh/2WhV7F6" },
     { "title": "Coinbase", "link": "https://www.coinbase.com/join/alemay_fq" }
+  ],
+  "Misc": [
+    {
+      "title": "Amazon Wishlist",
+      "link": "https://www.amazon.com/hz/wishlist/ls/2R5BVQ3IWEDAC?ref_=wl_share"
+    }
   ]
 }
