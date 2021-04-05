@@ -2,10 +2,11 @@ import styled from 'styled-components';
 
 import GlobalStyle from './components/GlobalStyle';
 import Footer from './components/Footer';
-import Header from './components/Header'
-import Content from './components/Content'
+import Header from './components/Header';
+import Content from './components/Content';
 
-import links from './links.json'
+import links from './links.json';
+import "./styles/App.scss";
 
 const Page = styled.div`
   text-align: center;
@@ -17,7 +18,7 @@ const Page = styled.div`
   font-size: calc(10px + 2vmin);
   color: white;
   height: 100vh;
-`
+`;
 function App() {
   return (
     <Page>
