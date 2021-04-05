@@ -1,22 +1,13 @@
-import styled from 'styled-components';
 import React from 'react';
-
 import Avatar from './Avatar';
-
-const StyledHeader = styled.header`
-padding-top: 2rem;
-`;
-
-const Title = styled.h1`
-        font-size: 16px;
-`
+import { header } from "../styles/Header.module.scss";
 
 const Header = () => {
         return (
-                <StyledHeader>
+                <header className={header}>
                         <Avatar />
-                        <Title>Alexander Alemayhu</Title>
-                </StyledHeader>
+                        <h1>Alexander Alemayhu</h1>
+                </header>
         );
 };
 
