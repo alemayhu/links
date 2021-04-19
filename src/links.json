@@ -108,12 +108,7 @@
   "🙋🏾‍♂️ My Referrals": [
     { "title": "DigitalOcean", "link": "https://m.do.co/c/c5a16996cd0e" },
     { "title": "Skillshare", "link": "https://skl.sh/2WhV7F6" },
-    { "title": "Coinbase", "link": "https://www.coinbase.com/join/alemay_fq" }
-  ],
-  "Misc": [
-    {
-      "title": "Amazon Wishlist",
-      "link": "https://www.amazon.com/hz/wishlist/ls/2R5BVQ3IWEDAC?ref_=wl_share"
-    }
+    { "title": "Coinbase", "link": "https://www.coinbase.com/join/alemay_fq" },
+    { "title": "Amazon", "link": "https://amzn.to/3aqc2xH" }
   ]
 }
