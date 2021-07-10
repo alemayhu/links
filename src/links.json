@@ -1,4 +1,22 @@
 {
+  "🔴 Watch Me LIVE": [
+    {
+      "title": "YouTube Live",
+      "link": "http://www.youtube.com/c/alexanderalemayhu/live"
+    },
+    {
+      "title": "Twitch",
+      "link": "http://twitch.tv/alexanderalemayhu"
+    },
+    {
+      "title": "Trovo",
+      "link": "https://trovo.live/alexanderalemayhu"
+    },
+    {
+      "title": "DLive",
+      "link": "http://dlive.tv/alexanderalemayhu"
+    }
+  ],
   " 🤳🏾Watch My Content": [
     {
       "title": "YouTube",
@@ -19,24 +37,6 @@
     {
       "title": "Tiktok",
       "link": "https://www.tiktok.com/@alexanderalemayhu"
-    }
-  ],
-  "🔴 Watch Me LIVE": [
-    {
-      "title": "YouTube Live",
-      "link": "http://www.youtube.com/c/alexanderalemayhu/live"
-    },
-    {
-      "title": "Twitch",
-      "link": "http://twitch.tv/alexanderalemayhu"
-    },
-    {
-      "title": "Trovo",
-      "link": "https://trovo.live/alexanderalemayhu"
-    },
-    {
-      "title": "DLive",
-      "link": "http://dlive.tv/alexanderalemayhu"
     }
   ],
   "💬 Contact Me": [
@@ -110,6 +110,9 @@
     { "title": "Skillshare", "link": "https://skl.sh/2WhV7F6" },
     { "title": "Coinbase", "link": "https://www.coinbase.com/join/alemay_fq" },
     { "title": "Amazon", "link": "https://amzn.to/3aqc2xH" },
-    { "title": "The Big YouTube Breakdown", "link": "https://streamcoach.teachable.com/p/the-big-youtube-breakdown?affcode=461038_rm-5fcy1" }
+    {
+      "title": "The Big YouTube Breakdown",
+      "link": "https://streamcoach.teachable.com/p/the-big-youtube-breakdown?affcode=461038_rm-5fcy1"
+    }
   ]
 }
