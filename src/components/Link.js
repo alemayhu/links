@@ -1,12 +1,32 @@
 import React from 'react';
+import styled from 'styled-components';
 
-import { linkWrapper, linkTitle } from "../styles/Link.module.scss";
+const StyledLink = styled.a`
+  text-decoration: none;
+  color: black;
+  div {
+    padding: 1rem;
+    width: 280px;
+    text-align: center;
+    margin: 1rem;
+    border-radius: 36px;
+
+    pointer-events: auto;
+    background: white;
+    font-weight: bold;
+    border: 3px solid transparent;
+
+    &:hover {
+      border: 3px solid black;
+    }
+  }
+`;
 
 const Link = ({ link, title }) => {
   return (
-    <a className={linkWrapper} target="_blank" rel="noreferrer" href={link}>
-      <div className={linkTitle}>{title}</div>
-    </a>
+    <StyledLink target="_blank" rel="noreferrer" href={link}>
+      <div>{title}</div>
+    </StyledLink>
   );
 };
 

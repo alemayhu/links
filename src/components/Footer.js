@@ -1,14 +1,24 @@
 import React from 'react';
+import styled from 'styled-components';
 
-import { footer, text, link } from "../styles/Footer.module.scss";
+const StyledFooter = styled.footer`
+  p {
+    color: white;
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      color: white;
+    }
+  }
+`;
 
 const Footer = () => {
         return (
-                <footer className={footer}>
-                        <p className={text}>
-                                ©  <a className={link} href="https://alemayhu.com">Alexander Alemayhu</a>
+                <StyledFooter>
+                        <p>
+                                ©  <a href="https://alemayhu.com">Alexander Alemayhu</a>
                         </p>
-                </footer>
+                </StyledFooter>
         );
 };
 
