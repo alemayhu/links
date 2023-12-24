@@ -7,18 +7,6 @@
     {
       "title": "YouTube",
       "link": "https://youtube.com/c/alexanderalemayhu"
-    },
-    {
-      "title": "Tiktok",
-      "link": "https://www.tiktok.com/@alexanderalemayhu"
-    },
-    {
-      "title": "Odysee",
-      "link": "https://odysee.com/@alexanderalemayhu:0"
-    },
-    {
-      "title": "yt.alemayhu.com",
-      "link": "https://yt.alemayhu.com/"
     }
   ],
   "💬 Contact": [
@@ -88,10 +76,22 @@
     }
   ],
   "🙋🏾‍♂️ Affiliates": [
-    { "title": "DigitalOcean", "link": "https://m.do.co/c/c5a16996cd0e" },
-    { "title": "Skillshare", "link": "https://skl.sh/2WhV7F6" },
-    { "title": "Coinbase", "link": "https://www.coinbase.com/join/alemay_fq" },
-    { "title": "Amazon", "link": "https://amzn.to/3aqc2xH" },
+    {
+      "title": "DigitalOcean",
+      "link": "https://m.do.co/c/c5a16996cd0e"
+    },
+    {
+      "title": "Skillshare",
+      "link": "https://skl.sh/2WhV7F6"
+    },
+    {
+      "title": "Coinbase",
+      "link": "https://www.coinbase.com/join/alemay_fq"
+    },
+    {
+      "title": "Amazon",
+      "link": "https://amzn.to/3aqc2xH"
+    },
     {
       "title": "The Big YouTube Breakdown",
       "link": "https://streamcoach.teachable.com/p/the-big-youtube-breakdown?affcode=461038_rm-5fcy1"
