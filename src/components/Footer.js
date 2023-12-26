@@ -10,16 +10,17 @@ const StyledFooter = styled.footer`
       color: white;
     }
   }
+  margin-top: auto;
 `;
 
 const Footer = () => {
-        return (
-                <StyledFooter>
-                        <p>
-                                ©  <a href="https://alemayhu.com">Alexander Alemayhu</a>
-                        </p>
-                </StyledFooter>
-        );
+  return (
+    <StyledFooter>
+      <p>
+        © <a href="https://alemayhu.com">Alexander Alemayhu</a>
+      </p>
+    </StyledFooter>
+  );
 };
 
 export default Footer;

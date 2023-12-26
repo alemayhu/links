@@ -1,4 +1,3 @@
-
 import styled from 'styled-components';
 import Footer from './components/Footer';
 import Header from './components/Header';
@@ -8,13 +7,12 @@ import links from './links.json';
 
 const Page = styled.div`
   text-align: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 0.3vmin);
   align-items: center;
   color: white;
 
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   height: 100vh;
 
   header {
