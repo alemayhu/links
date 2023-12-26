@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import logo from '../logo.png';
+import logo from '../avatar.jpeg';
 
 const StyledImage = styled.img`
   width: 96px;
